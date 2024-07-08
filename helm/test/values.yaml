@@ -1,0 +1,7 @@
+### Variables
+
+# Name
+name: test
+
+# Replicas
+replicas: 1
